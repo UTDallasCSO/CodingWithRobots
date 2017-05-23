@@ -16,6 +16,5 @@ To begin with:
 
 ### 3.	Sphero robot:  
    - Refer to the file shared. You can select any of the material you feel comfortable with once you are done explaining the basics.
-
-> **NOTE: Make sure all Sphero's and smart phones are charged one day before the class.**
+  > **NOTE: Make sure all Sphero's and smart phones are charged one day before the class.**
 
