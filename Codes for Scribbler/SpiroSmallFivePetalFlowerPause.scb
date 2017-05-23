@@ -1,0 +1,35 @@
+<!-- Generated code: DO NOT EDIT! Any changes will void this file. -->
+<!-- BD0102F11E5B8411BE947A0BDB0039B0 -->
+<opt autoreadsensors="2" class="Scribbler_Worksheet" version="1.4">
+  <_children active="1" activecalls="0" activeout="1" class="Scribbler_Subroutine" color="green" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_green" />
+    </_children>
+    <_children active="1" activeout="1" class="Scribbler_Loop" subclass="">
+      <_children active="1" activeout="0" class="Scribbler_LoopTile" subclass="loop_begin">
+        <action reps="0" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+        <action call="" icon="move_rot_left" left="-22" right="100" text="-22:100" timer="0.00" type="set" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_PauseTile" subclass="">
+        <action call="" icon="pause" text="0.95s" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+        <action call="" icon="move_rot_right" left="100" right="-64" text="100:-64" timer="0.00" type="set" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_PauseTile" subclass="">
+        <action call="" icon="pause" text="3.0s" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_LoopTile" subclass="loop_end">
+        <action></action>
+      </_children>
+      <action></action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_green" />
+    </_children>
+    <action></action>
+    <callsto></callsto>
+  </_children>
+</opt>

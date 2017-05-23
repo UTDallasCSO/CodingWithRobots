@@ -1,0 +1,29 @@
+<!-- Generated code: DO NOT EDIT! Any changes will void this file. -->
+<!-- 2D9C11D96AB4D6AEE5C2D1F7351DFC63 -->
+<opt autoreadsensors="2" class="Scribbler_Worksheet" version="1.4">
+  <_children active="1" activecalls="0" activeout="1" class="Scribbler_Subroutine" color="green" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_green" />
+    </_children>
+    <_children active="1" activeout="1" class="Scribbler_Loop" subclass="">
+      <_children active="1" activeout="0" class="Scribbler_LoopTile" subclass="loop_begin">
+        <action reps="0" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+        <action call="" icon="move_rot_left" left="-22" right="100" text="-22:100 0.95s" timer="0.95" type="set" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+        <action call="" icon="move_rot_right" left="100" right="-64" text="100:-64 3.00s" timer="3.00" type="set" />
+      </_children>
+      <_children active="1" activeout="0" class="Scribbler_LoopTile" subclass="loop_end">
+        <action></action>
+      </_children>
+      <action></action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_green" />
+    </_children>
+    <action></action>
+    <callsto></callsto>
+  </_children>
+</opt>
