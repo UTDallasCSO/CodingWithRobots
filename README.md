@@ -1,7 +1,5 @@
 # CodingWithRobots
 
-CODING WITH ROBOT CAMP
-
 
 To begin with: 
 
